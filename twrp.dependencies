@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_xiaomi_mithorium-common",
+    "repository": "twrp_device_xiaomi_mithorium-common",
     "target_path": "device/xiaomi/mithorium-common"
   }
 ]
